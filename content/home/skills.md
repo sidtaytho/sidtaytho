@@ -25,13 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 
-  icon: python
-  icon_pack: fas
+  icon: fa-python
+  icon_pack: fab
   name: Python
-- description: 
-  icon: microsoft
-  icon_pack: fas
-  name: Microsoft 365
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
