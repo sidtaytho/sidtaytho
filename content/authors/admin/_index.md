@@ -17,7 +17,7 @@ organizations:
 bio: I don't know what I'm doing
 
 # Interests to show in About widget
-research interests:
+interests:
 - Diversity, Equity, & Inclusion
 - Motivation
 - Leadership
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:sidtaytho@gmail.com 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sidtaytho
