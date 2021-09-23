@@ -11,16 +11,16 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Louisiana Tech University
-  url: https://www.stanford.edu/
+  url: https://education.latech.edu/academic-programs/psychology-behavioral-sciences/doctoral-programs/industrial-organizational-psychology-phd/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I don't know what I'm doing
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+research interests:
+- Diversity, Equity, & Inclusion
+- Motivation
+- Leadership
 
 # Education to show in About widget
 education:
@@ -43,9 +43,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sidtaytho
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/sidtaytho
