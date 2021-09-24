@@ -1,6 +1,4 @@
 ---
-![selfie](IMG_9530.jpg "")
-
 # Display name
 title: Sidney Thomas
 
