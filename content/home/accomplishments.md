@@ -31,13 +31,37 @@ item:
   organization_url: https://www.coursera.org
   title: Inclusive Excellence Advisory Council
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
   date_start: "2018-03-01"
   description: ""
   organization: Louisiana State University
-  organization_url: https://www.edx.org
+  organization_url: https://www.lsu.edu/mediacenter/news/2019/04/15tgertwelve.eb.php
   title: Tiger Twelve
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2018-03-01"
+  description: ""
+  organization: Louisiana State University
+  organization_url: 
+  title: Leadership LSU
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2018-03-01"
+  description: ""
+  organization: Louisiana State University
+  organization_url: 
+  title: Campus Life Foundation Award for Service
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2018-03-01"
+  description: ""
+  organization: Louisiana State University
+  organization_url: 
+  title: Tom Dutton Service Award
   url: 
 #  - certificate_url: https://www.datacamp.com
 #    date_end: "2017-12-21"
