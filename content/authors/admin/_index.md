@@ -18,7 +18,7 @@ bio: I don't know what I'm doing
 
 # Interests to show in About widget
 interests:
-- Diversity, Equity, & Inclusion
+- Diversity, equity, & inclusion
 - Organizational change management
 - Employee motivation
 - Leadership and decision making
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Industrial-Organizational Psychology
     institution: Louisiana Tech University
-    year: 2022
+    year: 2022 (tentative)
   - course: B.S. in Psychology
     institution: Louisiana State University
     year: 2019
