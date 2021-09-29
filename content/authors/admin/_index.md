@@ -19,8 +19,10 @@ bio: I don't know what I'm doing
 # Interests to show in About widget
 interests:
 - Diversity, Equity, & Inclusion
-- Motivation
-- Leadership
+- Organizational change management
+- Employee motivation
+- Leadership and decision making
+- People analytics
 
 # Education to show in About widget
 education:
@@ -64,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Sidney Thomas is currently serving as the Student Director of AROS. She has aided in organizing and implementing leadership programs for the President of the University, the Louisiana Tech Athletic Department, student organization leaders, as well as Easterseals Louisiana non-profit organization. As part of Louisiana Tech's participation in NSF's IChange program, Sidney's current research focuses on individuals' motivation and readiness to change toward greater organizational diversity, equity, and inclusion. 
+Sidney Thomas is a third year doctoral student at Louisiana Tech University. She is currently serving as the Student Director of Applied Research for Organizational Solutions (AROS). [add blurb about AROS?] Her experience includes organizing and implementing leadership programs for the President of the University, the Louisiana Tech Athletic Department, student organization leaders, as well as Easterseals Louisiana non-profit organization. As part of Louisiana Tech's participation in NSF's IChange program, Sidney's current research focuses on individuals' motivation and readiness to change toward greater organizational diversity, equity, and inclusion. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

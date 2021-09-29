@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2021-04-01"
   description: ""
-  organization: Louisiana Tech
+  organization: Louisiana Tech University 
   organization_url: https://www.coursera.org
   title: Inclusive Excellence Advisory Council
   url: ""
