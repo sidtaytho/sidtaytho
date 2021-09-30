@@ -31,33 +31,33 @@ item:
   organization_url: https://www.coursera.org
   title: Inclusive Excellence Advisory Council
   url: ""
-- certificate_url: 
+- certificate_url: https://www.lsu.edu/mediacenter/news/2019/04/15tgertwelve.eb.php
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2019-04-15"
   description: ""
   organization: Louisiana State University
   organization_url: https://www.lsu.edu/mediacenter/news/2019/04/15tgertwelve.eb.php
   title: Tiger Twelve
   url: 
-- certificate_url: 
+- certificate_url: https://www.lsu.edu/mediacenter/news/2018/05/07leadershiplsu.eb.php
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2018-05-07"
   description: ""
   organization: Louisiana State University
   organization_url: 
   title: Leadership LSU
-  url: 
+  url: https://www.lsu.edu/mediacenter/news/2018/05/07leadershiplsu.eb.php
 - certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2019-03-01"
   description: ""
   organization: Louisiana State University
   organization_url: 
   title: Campus Life Foundation Award for Service
   url: 
-- certificate_url: 
+- certificate_url: https://www.lsu.edu/mediacenter/news/2018/02/19duttonaward.eb.php
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2019-02-19"
   description: ""
   organization: Louisiana State University
   organization_url: 
