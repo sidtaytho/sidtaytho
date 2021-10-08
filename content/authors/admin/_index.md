@@ -51,7 +51,7 @@ social:
   link: https://github.com/sidtaytho
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/sidneytaylorthomas
+  link: https://www.linkedin.com/in/sidneytaylorthomas
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Sidney Thomas is a third year doctoral student at Louisiana Tech University. She is currently serving as the Student Director of Applied Research for Organizational Solutions (AROS). [add blurb about AROS?] Her experience includes organizing and implementing leadership programs for the President of the University, the Louisiana Tech Athletic Department, student organization leaders, as well as Easterseals Louisiana non-profit organization. As part of Louisiana Tech's participation in NSF's IChange program, Sidney's current research focuses on individuals' motivation and readiness to change toward greater organizational diversity, equity, and inclusion. 
+Sidney Thomas is a third year doctoral student at Louisiana Tech University. She is currently serving as the Student Director of Applied Research for Organizational Solutions ([AROS](https://www.arosconsulting.org/)). Her experience includes organizing and implementing leadership programs for the President of the University, the Louisiana Tech Athletic Department, student organization leaders, as well as Easterseals Louisiana non-profit organization. As part of Louisiana Tech's participation in NSF's IChange program, Sidney's current research focuses on individuals' motivation and readiness to change toward greater organizational diversity, equity, and inclusion. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
