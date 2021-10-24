@@ -39,7 +39,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Intermediate R
   url: ""
-- certificate_url: {{% staticref "uploads/Introduction to Python.pdf" "newtab" %}}PDF{{% /staticref %}}
+- certificate_url: 
   date_end: ""
   date_start: "2021-10-10"
   description: ""
