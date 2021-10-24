@@ -22,7 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Director, Project Lead
+  - title: Director
+    company: AROS Consulting
+    company_url: ''
+    location: Ruston, LA
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Set the tone, vision, and overall mission of AROS
+        * Initiation and implementation of an organizational transformation
+        * Solicit and assess the needs of individuals through a competency survey; use results to inform project staffing and acquisition
+        * Administer, score, and share results of annual climate survey; discuss and implement changes as necessary
+
+  - title: Project Lead
     company: AROS Consulting
     company_url: ''
     location: Ruston, LA
@@ -31,10 +45,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
+        * Assessment services: business development strategy research and creation of an assessment center for public safety personnel 
+        * State education dashboard: building of a dashboard in RMarkdown of annual teacher retention report for Kansas education department
+        * University climate survey: developed and administered a climate survey; conducted focus groups/interviews; analyzed quantitative data to find climate trends, created a codebook for best practices in analyzing qualitative data
+        * External evaluation of NSF grant: managed a team of three; coordinated with project investigators; gathered and analyzed work done by project team; wrote a technical report to document project processes and findings, evaluated and formative feedback; presented results to grant team 
+       
   - title: Subject Matter Expert (Contract)
     company: SkillSource Learning Partners
     company_url: ''
@@ -44,7 +59,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Piloted a virtual project for Amazon.com, Inc.
+        * Rated interpersonal skills by listening to audio recording and transcripts
+
 ---
