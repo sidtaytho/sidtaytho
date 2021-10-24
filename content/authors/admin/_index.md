@@ -69,4 +69,4 @@ highlight_name: false
 
 Sidney Thomas is a third year doctoral student at Louisiana Tech University. She is currently serving as the Student Director of Applied Research for Organizational Solutions ([AROS](https://www.arosconsulting.org/)). Her experience includes organizing and implementing leadership programs for the President of the University, the Louisiana Tech Athletic Department, student organization leaders, as well as Easterseals Louisiana non-profit organization. As part of Louisiana Tech's participation in NSF's IChange program, Sidney's current research focuses on individuals' motivation and readiness to change toward greater organizational diversity, equity, and inclusion. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/dresume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
