@@ -45,7 +45,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Introduction to Python
   url: ''
-- certificate_url: (/static/uploads/Intermediate Python.pdf)
+- certificate_url: (/certificates/Intermediate Python.pdf)
   date_end: ''
   date_start: '2021-10-24'
   description: ''
