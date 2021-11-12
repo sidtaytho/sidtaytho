@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1sn0RqWyedYu84sy7naKHEqpnu7VeHDaL/view?usp=sharing
   date_end: ''
   date_start: '2021-09-25'
   description: ''
@@ -29,7 +29,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Introduction to R
   url: ''
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1N6LVKBrrA8UYQg7umALAbHDNFaI_si53/view?usp=sharing
   date_end: ''
   date_start: '2021-10-05'
   description: ''
@@ -37,7 +37,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Intermediate R
   url: ''
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/13ztphUMd_95zo_0TXc1DGTc7RnUDGWyX/view?usp=sharing
   date_end: ''
   date_start: '2021-10-10'
   description: ''
@@ -45,7 +45,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Introduction to Python
   url: ''
-- certificate_url: https://drive.google.com/file/d/13ztphUMd_95zo_0TXc1DGTc7RnUDGWyX/view?usp=sharing
+- certificate_url: https://drive.google.com/file/d/1OxhKyO-l_YZ7FN4cv8Z-3vTJx7IVYqo0/view?usp=sharing
   date_end: ''
   date_start: '2021-10-24'
   description: ''
@@ -53,7 +53,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Intermediate Python
   url: ""
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1VDvP7iX7UAoy2yhpWEspEXYr9yBn402p/view?usp=sharing
   date_end: ''
   date_start: '2021-10-28'
   description: ''
@@ -61,7 +61,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Introduction to the Tidyverse
   url: "" 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1Cc3Vy_XtvUbcLDI-URRa9XnL4UwiT2Ko/view?usp=sharing
   date_end: ''
   date_start: '2021-11-04'
   description: ''
@@ -69,7 +69,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Data Manipulation with dplyr
   url: "" 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1dSCCd5i44mB9krluJo94W9uFozuzTPPe/view?usp=sharing
   date_end: ''
   date_start: '2021-11-12'
   description: ''
