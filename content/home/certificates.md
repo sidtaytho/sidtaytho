@@ -45,7 +45,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Introduction to Python
   url: ''
-- certificate_url: (/certificates/Intermediate Python.pdf)
+- certificate_url: https://drive.google.com/file/d/13ztphUMd_95zo_0TXc1DGTc7RnUDGWyX/view?usp=sharing
   date_end: ''
   date_start: '2021-10-24'
   description: ''
@@ -55,7 +55,7 @@ item:
   url: ""
 - certificate_url:
   date_end: ''
-  date_start: '2021-10-24'
+  date_start: '2021-10-28'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -63,7 +63,7 @@ item:
   url: "" 
 - certificate_url:
   date_end: ''
-  date_start: '2021-10-24'
+  date_start: '2021-11-04'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -71,7 +71,7 @@ item:
   url: "" 
 - certificate_url:
   date_end: ''
-  date_start: '2021-10-24'
+  date_start: '2021-11-12'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
