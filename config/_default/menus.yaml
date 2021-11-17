@@ -22,8 +22,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
-
-  - name = "My Widget Page"  # Title of the link.
+  - name = Coursework  # Title of the link.
     url = "landing/coursework"  # Widget Page folder name.
     weight = 60  # Position of the link in the navigation bar.
 
