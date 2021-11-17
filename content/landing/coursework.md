@@ -1,6 +1,6 @@
 ---
 title: Coursework
-summary: Relevant I-O Coursework (PH.D. Track)
+summary: Relevant I-O Coursework
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-
+## Louisiana Tech I-O Ph.D. Courses (completed)
  PSYC641 001  ADV EXPERIMENTAL DES & ANALYSIS  
  PSYC700 001  SEMINAR: TOPICS IN I/O PSYC      
  PSYC716 001  PERSONNEL PSYCHOLOGY             
