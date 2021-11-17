@@ -22,9 +22,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
-  - name = Coursework  # Title of the link.
-    url = landing/  # Widget Page folder name.
-    weight = 60  # Position of the link in the navigation bar.
+  - name: = Coursework  # Title of the link.
+    url: = landing/  # Widget Page folder name.
+    weight: = 60  # Position of the link in the navigation bar.
 
 
 # Link to a PDF of your resume/CV from the menu.
