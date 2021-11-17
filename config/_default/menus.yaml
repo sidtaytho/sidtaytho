@@ -21,11 +21,11 @@ main:
     weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
-  name = "My Widget Page"  # Title of the link.
-  url = "landing/coursework"  # Widget Page folder name.
-  weight = 2  # Position of the link in the navigation bar.
+  - name = "My Widget Page"  # Title of the link.
+    url = "landing/coursework"  # Widget Page folder name.
+    weight = 60  # Position of the link in the navigation bar.
 
 
 # Link to a PDF of your resume/CV from the menu.
