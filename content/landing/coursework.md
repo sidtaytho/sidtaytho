@@ -8,9 +8,10 @@ subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 ---
-## Louisiana Tech I-O Ph.D. Courses (completed)
+
+Louisiana Tech I-O Ph.D. Courses (completed)
 - PSYC641 ADV EXPERIMENTAL DES & ANALYSIS  
 - PSYC700 SEMINAR: TOPICS IN I/O PSYC      
 - PSYC716 PERSONNEL PSYCHOLOGY             
