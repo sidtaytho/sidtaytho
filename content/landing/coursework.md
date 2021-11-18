@@ -1,17 +1,14 @@
 ---
-title: Coursework
-summary: Relevant I-O Coursework
-date: "2018-06-28T00:00:00Z"
+widget: blank
+headless: true
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+# ... Put Your Section Options Here (title etc.) ...
+title: Relevant I-O Coursework
+subtitle:
+weight: 10  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
 ---
 ## Louisiana Tech I-O Ph.D. Courses (completed)
 PSYC641 ADV EXPERIMENTAL DES & ANALYSIS  
