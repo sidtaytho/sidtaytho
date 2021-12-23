@@ -9,6 +9,7 @@ design:
   # columns: '1'
 ---
 Completed Ph.D. courses:
+
 - Organizational Consulting
 - Organizational Development
 - Work Engagement
