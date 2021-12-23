@@ -9,32 +9,22 @@ design:
   # columns: '1'
 ---
 
-Louisiana Tech I-O Ph.D. Courses (completed):
-
-* PSYC641 ADV EXPERIMENTAL DES & ANALYSIS  
-* PSYC700 SEMINAR: TOPICS IN I/O PSYC      
-* PSYC716 PERSONNEL PSYCHOLOGY             
-* PSYC642 ADVANCED STATISTICAL METHODS     
-* PSYC700 SEMINAR: TOPICS IN I/O PSYC      
-* PSYC713 ADV ORGANIZATIONAL PSYCHOLOGY     
-* PSYC643 MULTIVARIATE STATISTICS      
-* PSYC700 SEMINAR: TOPICS IN I/O PSYC  
-* PSYC760 ORGANIZATIONAL DEV AND CHANGE
-* PSYC543 PSYCHOMETRICS    
-* PSYC631 MULTICULTURALISM AND DIVERSITY
-* PSYC714 ORGANIZATIONAL CONSULTING
-* PSYC720 ADV ANALYTIC METH: APPL I/O PSYC
-* PSYC730 WORK ENGAGEMENT 
-* PSYC523 LEADERSHIP & DECISION MAKING 
-* PSYC604 THEORIES OF SOCIAL PSYCHOLOGY
-* PSYC700 SEMINAR: TOPICS IN I/O PSYC 
-* PSYC743 ADVANCED PSYCHOMETRIC THEORY
-* PSYC521 JOB ANALYSIS & PERFORMANCE APPRL
-* PSYC700 SEMINAR: TOPICS IN I/O PSYC 
-* PSYC745 HUMAN PERFORMANCE IMPROVEMENT
-* BUSN501 GLOBAL PERSPECTIVES IN MGMT
-* PSYC517 TRAINING & DEVELOPMENT    
-* PSYC700 SEMINAR: TOPICS IN I/O PSYC 
-* PSYC710 FOUND & ETHICS OF I/O PSYC  
-* PSYC740 TEAMS IN ORGANIZTIONS  
- 
+- Organizational Consulting
+- Organizational Development
+- Work Engagement
+- Organizational Teams
+- Leadership & Decision Making
+- Training & Development
+- Advanced Psychometrics
+- Personnel Psychology
+- Univariate & Multivariate Statistics
+- Job Analysis & Performance Appraisal
+- Human Performance Improvement
+- Advanced Analytic Methods in Applied I-O Psychology
+- Human Resource Management
+- Foundation and Ethics in I-O Psychology
+- Global Perspectives in Management
+- Multiculturalism and Diversity
+- Advanced Psychometric Theory
+- Theories of Social Psychology
+- EEO & Compensation

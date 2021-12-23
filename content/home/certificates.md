@@ -83,7 +83,7 @@ item:
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: Introduction Data Visualization with ggplot2
+  title: Introduction to SQL
   url: "" 
 - certificate_url:
   date_end: ''
