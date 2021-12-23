@@ -10,6 +10,7 @@ design:
 ---
 
 Louisiana Tech I-O Ph.D. Courses (completed):
+
 * PSYC641 ADV EXPERIMENTAL DES & ANALYSIS  
 * PSYC700 SEMINAR: TOPICS IN I/O PSYC      
 * PSYC716 PERSONNEL PSYCHOLOGY             

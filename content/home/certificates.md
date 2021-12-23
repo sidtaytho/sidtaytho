@@ -77,6 +77,62 @@ item:
   organization_url: https://www.datacamp.com
   title: Joining Data with dplyr
   url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2021-11-12'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Introduction Data Visualization with ggplot2
+  url: "" 
+- certificate_url:
+  date_end: ''
+  date_start: '2021-11-12'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Intermediate Data Visualization with ggplot2
+  url: "" 
+- certificate_url:
+  date_end: ''
+  date_start: '2021-11-12'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Reporting with R Markdown
+  url: "" 
+- certificate_url:
+  date_end: ''
+  date_start: '2021-11-12'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Intermediate Importing Data in R
+  url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2021-11-12'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Cleaning Data in R
+  url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2021-11-12'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Introduction to Writing Functions in R
+  url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2021-11-12'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Exploratory Data Analysis in R
+  url: "" 
 #  - certificate_url: https://www.datacamp.com
 #    date_end: "2017-12-21"
 #    date_start: "2017-07-01"
