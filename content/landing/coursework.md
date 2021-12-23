@@ -8,6 +8,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   # columns: '1'
 ---
+
 Completed Ph.D. courses:
 
 - Organizational Consulting
@@ -29,3 +30,4 @@ Completed Ph.D. courses:
 - Advanced Psychometric Theory
 - Theories of Social Psychology
 - EEO & Compensation
+
