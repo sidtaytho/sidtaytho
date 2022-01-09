@@ -139,7 +139,7 @@ item:
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: Case Study: Exploratory Data Analysis in R
+  title: Case Study- Exploratory Data Analysis in R
   url: "" 
 - certificate_url: 
   date_end: ''
