@@ -77,7 +77,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Joining Data with dplyr
   url: "" 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1UCYK4sZRtQMCHOy_FMrOjR4LL43G2TE_/view?usp=sharing
   date_end: ''
   date_start: '2021-12-02'
   description: ''
@@ -85,7 +85,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Introduction to SQL
   url: "" 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1ziLgVwTEAZO-KT1cU4cXG7qzMgKlho--/view?usp=sharing
   date_end: ''
   date_start: '2021-11-16'
   description: ''
@@ -93,7 +93,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Intermediate Data Visualization with ggplot2
   url: "" 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/13DnSIwSHSzNx8FXZQ20zaPOs45prOCHY/view?usp=sharing
   date_end: ''
   date_start: '2021-11-23'
   description: ''
@@ -101,7 +101,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Reporting with R Markdown
   url: "" 
-- certificate_url:
+- certificate_url: https://drive.google.com/file/d/1avUIQwhz5JgE-BuQHRaO_0H8m_2DzK6v/view?usp=sharing
   date_end: ''
   date_start: '2021-12-03'
   description: ''
@@ -109,7 +109,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Intermediate Importing Data in R
   url: "" 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1wN6R5E94f8iC1sQsHkCXobw9kiY1XT-V/view?usp=sharing
   date_end: ''
   date_start: '2021-12-05'
   description: ''
@@ -117,7 +117,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Cleaning Data in R
   url: "" 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/174nkVfwwmnt6vOks6qecC0KVBKvcRRUx/view?usp=sharing
   date_end: ''
   date_start: '2021-12-12'
   description: ''
@@ -125,7 +125,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Introduction to Writing Functions in R
   url: "" 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1IyP-8okFRpcdZElrHlA0mUXhPX3neuOy/view?usp=sharing
   date_end: ''
   date_start: '2021-12-27'
   description: ''
@@ -133,23 +133,23 @@ item:
   organization_url: https://www.datacamp.com
   title: Exploratory Data Analysis in R
   url: "" 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1ocvwcE7unX5yoDYjaiBsM0enb4scY4L5/view?usp=sharing
   date_end: ''
-  date_start: '2021-01-02'
+  date_start: '2022-01-02'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: Case Study- Exploratory Data Analysis in R
   url: "" 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/11bACZvdnBohyX-xMiYf1VHGKef5BytNK/view?usp=sharing
   date_end: ''
-  date_start: '2021-01-04'
+  date_start: '2022-01-04'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: Introduction to Statistics in R
   url: "" 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1ts2cyfEc7cIYiKHouwV9GpKxtoOCQwX_/view?usp=sharing
   date_end: ''
   date_start: '2022-01-07'
   description: ''
