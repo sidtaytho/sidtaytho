@@ -79,7 +79,7 @@ item:
   url: "" 
 - certificate_url: 
   date_end: ''
-  date_start: '2021-11-12'
+  date_start: '2021-12-02'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -87,7 +87,7 @@ item:
   url: "" 
 - certificate_url:
   date_end: ''
-  date_start: '2021-11-12'
+  date_start: '2021-11-16'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -95,7 +95,7 @@ item:
   url: "" 
 - certificate_url:
   date_end: ''
-  date_start: '2021-11-12'
+  date_start: '2021-11-23'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -103,7 +103,7 @@ item:
   url: "" 
 - certificate_url:
   date_end: ''
-  date_start: '2021-11-12'
+  date_start: '2021-12-03'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -111,7 +111,7 @@ item:
   url: "" 
 - certificate_url: 
   date_end: ''
-  date_start: '2021-11-12'
+  date_start: '2021-12-05'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -119,7 +119,7 @@ item:
   url: "" 
 - certificate_url: 
   date_end: ''
-  date_start: '2021-11-12'
+  date_start: '2021-12-12'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
@@ -127,11 +127,35 @@ item:
   url: "" 
 - certificate_url: 
   date_end: ''
-  date_start: '2021-11-12'
+  date_start: '2021-12-27'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: Exploratory Data Analysis in R
+  url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2021-01-02'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Case Study: Exploratory Data Analysis in R
+  url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2021-01-04'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Introduction to Statistics in R
+  url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2022-01-07'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Introduction to Regression in R
   url: "" 
 #  - certificate_url: https://www.datacamp.com
 #    date_end: "2017-12-21"
