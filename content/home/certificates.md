@@ -173,6 +173,14 @@ item:
   organization_url: https://www.datacamp.com
   title: Supervised Learning in R: Classification
   url: "" 
+- certificate_url: 
+  date_end: ''
+  date_start: '2022-01-26'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Supervised Learning in R: Regression
+  url: "" 
 #  - certificate_url: https://www.datacamp.com
 #    date_end: "2017-12-21"
 #    date_start: "2017-07-01"
