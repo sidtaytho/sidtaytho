@@ -21,14 +21,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1CP7p5kJ1UsuWCHP6yEo21Nyzt9Tbl2Es/view?usp=sharing
   date_end: ''
   date_start: '2022-02-07'
   description: ''
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: Data Scientist with R Track
-  url: ''
+  url: https://drive.google.com/file/d/1mZ8vMgkhXzN1vMKz7-21ZYQkPVoE2mes/view?usp=sharing
 - certificate_url: 
   date_end: ''
   date_start: '2022-02-12'
