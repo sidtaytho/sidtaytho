@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Industrial-Organizational Psychology
+  - course: Ph.D. in Industrial-Organizational Psychology
     institution: Louisiana Tech University
     year: 2022 (tentative)
   - course: B.S. in Psychology
