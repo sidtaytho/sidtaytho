@@ -37,4 +37,12 @@ item:
   organization_url: https://www.datacamp.com
   title: Data Analyst with R
   url: https://drive.google.com/file/d/1mZ8vMgkhXzN1vMKz7-21ZYQkPVoE2mes/view?usp=sharing
+- certificate_url: https://www.datacamp.com/certificate/DA0010367224200
+  date_end: ''
+  date_start: '2022-04-05'
+  description: ''
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Professional Data Analyst
+  url: https://www.datacamp.com/certificate/DA0010367224200
 ---
