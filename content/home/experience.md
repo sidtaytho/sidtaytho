@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Ruston, LA
     date_start: '2021-05-01'
-    date_end: ''
+    date_end: '2022-05-15'
     description: |2-
         Responsibilities include:
         
@@ -41,7 +41,7 @@ experience:
     company_url: ''
     location: Ruston, LA
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2022-05-15'
     description: |2-
         Responsibilities include:
         
@@ -55,7 +55,7 @@ experience:
     company_url: ''
     location: San Francisco, CA (Remote)
     date_start: '2020-03-01'
-    date_end: ''
+    date_end: '2020-08-01'
     description: |2-
         Responsibilities include:
         
