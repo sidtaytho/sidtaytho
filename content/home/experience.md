@@ -25,7 +25,7 @@ experience:
   - title: Advanced Analytics Senior Consultant
     company: People Analytics @ Allstate
     company_url: ''
-    location: Remote
+    location: Austin, TX (Remote)
     date_start: '2022-04-18'
     date_end: ''
     description: |2-
