@@ -20,10 +20,10 @@ bio: I don't know what I'm doing
 # Interests to show in About widget
 interests:
 - People analytics
-- Diversity, equity, & inclusion
 - Organizational change management
-- Employee motivation
+- Employee motivation & engagement
 - Leadership and decision making
+- Diversity, equity, & inclusion
 
 # Education to show in About widget
 education:
