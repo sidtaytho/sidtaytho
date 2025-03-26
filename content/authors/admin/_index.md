@@ -1,17 +1,17 @@
 ---
 
 # Display name
-title: Sidney Thomas
+title: Sidney Thomas, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate
+role: I-O Psychologist | People Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Louisiana Tech University
+- name: Allstate
   url: https://education.latech.edu/academic-programs/psychology-behavioral-sciences/doctoral-programs/industrial-organizational-psychology-phd/
 
 # Short bio (displayed in user profile at end of posts)
