@@ -41,9 +41,9 @@ tags: [SIOP]
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: github repository
-   url: http://example.org
+# links:
+# - name: github repository
+#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
